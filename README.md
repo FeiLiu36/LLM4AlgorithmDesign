@@ -332,6 +332,7 @@ The sharing principle of these references here is for research. If any authors d
 | Discovering Preference Optimization Algorithms with and for Large Language Models | Arxiv June 2024 | code | [paper](https://arxiv.org/abs/2406.08414) |
 | OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code | Arxiv May 2024 | [code](https://omni-epic.vercel.app/) | [paper](https://arxiv.org/pdf/2405.15568)  |
 | In-the-loop Hyper-Parameter Optimization for LLM-Based Automated Design of Heuristics | Arxiv Oct 2024 | [code](https://github.com/nikivanstein/LLaMEA) | [paper](https://arxiv.org/pdf/2410.16309) |
+| AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search | Arxiv Aug 2026 | [code](https://github.com/AutoResearch-Factory/AgonAlpha) | [paper](https://arxiv.org/abs/2608.11250) |
 
 ### LLM as Optimizer
 | Title | Publication with Date | Code | Paper |
@@ -390,6 +391,7 @@ The sharing principle of these references here is for research. If any authors d
 | LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery | Arxiv, May 2024       | [code](https://github.com/elttaes/Revisiting-PLMs) | [paper](https://arxiv.org/pdf/2405.09783)                  |
 | Taming Large Language Model For Conversational Protein Design | Openreview, 2024  | [code]  |  [paper](https://openreview.net/pdf?id=sFJr7okOBi)   |
 | AutoTurb: Using Large Language Models for Automatic Algebraic Model Discovery of Turbulence Closure | Arxiv, Oct. 2024| [code] | [paper](https://arxiv.org/pdf/2410.10657) |
+| AutoSR: Automatic Symbolic Regression by Searching Research States | Arxiv, Aug. 2026 | [code](https://github.com/AutoResearch-Factory/AutoSR) | [paper](https://arxiv.org/abs/2608.16876) |
 
 
 ### Industry
