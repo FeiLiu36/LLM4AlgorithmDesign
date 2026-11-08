@@ -332,6 +332,8 @@ The sharing principle of these references here is for research. If any authors d
 | Discovering Preference Optimization Algorithms with and for Large Language Models | Arxiv June 2024 | code | [paper](https://arxiv.org/abs/2406.08414) |
 | OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code | Arxiv May 2024 | [code](https://omni-epic.vercel.app/) | [paper](https://arxiv.org/pdf/2405.15568)  |
 | In-the-loop Hyper-Parameter Optimization for LLM-Based Automated Design of Heuristics | Arxiv Oct 2024 | [code](https://github.com/nikivanstein/LLaMEA) | [paper](https://arxiv.org/pdf/2410.16309) |
+| CacheFit: The Rising Cost of Cache Replacement and Constraint-Driven Redesign of Last-Level Cache Replacement Policies | Arxiv Oct 2026 | - | [paper](https://arxiv.org/abs/2610.10579) |
+| CACHEFORGE: LLM-Guided End-to-End Generative Cache Replacement Policy for Performance and Hardware Efficiency | Arxiv Oct 2026 | - | [paper](https://arxiv.org/abs/2610.07668) |
 
 ### LLM as Optimizer
 | Title | Publication with Date | Code | Paper |
